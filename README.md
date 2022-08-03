@@ -3,7 +3,7 @@
 <!--
 **AhmedAmar96/AhmedAmar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-##  Node.js Developer
+<h3 align="center">Node.js Developer</h3>
 
 - 🌱 I’m currently learning **Docker**
 - 👯 I’m looking to collaborate with other developers
