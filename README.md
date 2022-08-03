@@ -5,9 +5,9 @@
 -->
 ##  Node.js Developer
 
-- 🌱 I’m currently learning **Docker
+- 🌱 I’m currently learning **Docker**
 - 👯 I’m looking to collaborate with other developers
-- 💬 Ask me about **node.js and backend
+- 💬 Ask me about **node.js and backend**
 - 📫 How to reach me: ahmed.amar.aae@gmail.com
 
 <h3 align="left">Connect with me:</h3>
