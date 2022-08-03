@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Ahmed Amar
-
+<h1 align="center">Hi there 👋, I'm Ahmed Amar</h1>
 <!--
 **AhmedAmar96/AhmedAmar96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
